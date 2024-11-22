@@ -1,2 +1,4 @@
-# xd
-# Javascript
+Rita 
+Gonzalo
+Bárbara
+
