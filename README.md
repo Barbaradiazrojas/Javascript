@@ -1,4 +1,4 @@
 Rita 
-Gonzalo
-Bárbara
+Gonzalo Rojas
+Bárbara Díaz 
 
